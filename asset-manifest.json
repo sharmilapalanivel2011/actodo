@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/login-signin-actodo/static/css/main.5d5c7a1a.css",
-    "main.js": "/login-signin-actodo/static/js/main.3a397964.js",
-    "index.html": "/login-signin-actodo/index.html",
-    "main.5d5c7a1a.css.map": "/login-signin-actodo/static/css/main.5d5c7a1a.css.map",
-    "main.3a397964.js.map": "/login-signin-actodo/static/js/main.3a397964.js.map"
+    "main.css": "/actodo/static/css/main.5d5c7a1a.css",
+    "main.js": "/actodo/static/js/main.3a397964.js",
+    "index.html": "/actodo/index.html",
+    "main.5d5c7a1a.css.map": "/actodo/static/css/main.5d5c7a1a.css.map",
+    "main.3a397964.js.map": "/actodo/static/js/main.3a397964.js.map"
   },
   "entrypoints": [
     "static/css/main.5d5c7a1a.css",
