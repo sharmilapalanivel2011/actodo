@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/actodo/static/css/main.5d5c7a1a.css",
-    "main.js": "/actodo/static/js/main.3a397964.js",
+    "main.js": "/actodo/static/js/main.f49251ef.js",
     "index.html": "/actodo/index.html",
     "main.5d5c7a1a.css.map": "/actodo/static/css/main.5d5c7a1a.css.map",
-    "main.3a397964.js.map": "/actodo/static/js/main.3a397964.js.map"
+    "main.f49251ef.js.map": "/actodo/static/js/main.f49251ef.js.map"
   },
   "entrypoints": [
     "static/css/main.5d5c7a1a.css",
-    "static/js/main.3a397964.js"
+    "static/js/main.f49251ef.js"
   ]
 }
